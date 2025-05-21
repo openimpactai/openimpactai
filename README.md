@@ -26,13 +26,13 @@ Current projects include:
 ---
 
 ### 🤖 **2. EduSynapseAI – Multi-Agent Learning Framework**
-📌 **EduSynapseAI** is an advanced **multi-agent AI learning framework** designed to enhance the learning process by integrating various AI agents working collaboratively.
+📌 **[EduSynapseAI](https://github.com/openimpactai/EduSynapseAI)** is an advanced **multi-agent AI learning framework** designed to enhance the learning process by integrating various AI agents working collaboratively.
 
 - Adaptive AI tutors analyze student weaknesses and adjust learning materials  
 - Multi-agent interaction allows real-time feedback, evaluation, and optimization  
 - AI-powered knowledge graphs track progress and suggest personalized learning paths  
 
-📂 [**Learn more about EduSynapseAI →**](./EduSynapseAI/)
+📂 [**Learn more about EduSynapseAI →**](https://github.com/openimpactai/EduSynapseAI)
 
 ---
 
