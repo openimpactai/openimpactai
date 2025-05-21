@@ -95,4 +95,11 @@ OpenImpactAI is licensed under the **MIT License**, promoting open collaboration
 
 ---
 
+## 🔗 **Project Support**
+OpenImpactAI is:
+- Managed and sponsored by [GDLabs](https://gdlabs.io)
+- Supported by the [AI Builders Hub](https://aibuildershub.ai) community platform
+
+---
+
 💡 **Join us in building AI-driven solutions for a better world!** 🚀
