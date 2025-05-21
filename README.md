@@ -30,11 +30,12 @@ Current projects include:
 
 ### 🤖 2. EduSynapseAI – Multi-Agent Learning Framework
 
-📌 **[EduSynapseAI](https://github.com/openimpactai/EduSynapseAI)** is an advanced **multi-agent AI learning framework** designed to enhance the learning process by integrating various AI agents working collaboratively.
+📌 **[EduSynapseAI](https://github.com/openimpactai/EduSynapseAI)** is an advanced **multi-agent AI learning framework** developed by [GDLabs.io](https://gdlabs.io). This framework focuses on addressing educational inequalities and student motivation challenges by integrating AI and blockchain technologies. EduSynapseAI will be implemented by [EDUAgentic.ai](https://eduagentic.ai) to create more equitable and engaging learning environments.
 
-- Adaptive AI tutors analyze student weaknesses and adjust learning materials  
-- Multi-agent interaction allows real-time feedback, evaluation, and optimization  
-- AI-powered knowledge graphs track progress and suggest personalized learning paths  
+Key features include:
+- Adaptive AI tutors that analyze student weaknesses and adjust learning materials
+- Multi-agent interaction allowing real-time feedback, evaluation, and optimization
+- AI-powered knowledge graphs that track progress and suggest personalized learning paths
 
 📂 [**Learn more about EduSynapseAI →**](https://github.com/openimpactai/EduSynapseAI)
 
