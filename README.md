@@ -1,14 +1,19 @@
-# 🌍 OpenImpactAI – AI for Social Good 🚀
+# ANNOUNCEMENT
 
-OpenImpactAI is an open-source initiative dedicated to leveraging artificial intelligence for **social good**.  
-We develop **AI-driven solutions** for **education, healthcare, accessibility, and environmental challenges** to create meaningful impact.
+We are pleased to announce that GDLabs.io has made the decision to transform our AI initiatives into open-source projects starting May 2025. We've begun by migrating our education-focused AI solutions to public repositories, and we're expanding our commitment to support a broader range of AI projects for social good. Through collaborations with universities and our community platform, AI Builders Hub, we aim to advance our work in an open-source format. As part of this initiative, we are migrating our private repository projects to a public repository named "OpenImpactAI."
 
 ---
 
-## 📌 **Project Categories**
+# 🌍 OpenImpactAI – AI for Social Good
+
+OpenImpactAI is an open-source initiative dedicated to leveraging artificial intelligence for social good. As part of GDLabs.io's mission to develop AI and blockchain solutions for social impact, we're committed to supporting and creating AI-driven tools across multiple domains including education, healthcare, accessibility, environmental sustainability, and more. While we've started with our education projects, we're actively expanding to support a wider spectrum of initiatives that create meaningful social impact.
+
+## 📌 Project Categories
+
 OpenImpactAI organizes projects into distinct categories, focusing on various societal challenges.
 
-### 🎓 **1. AI-Education-Projects (AI for Education)**
+### 🎓 1. AI-Education-Projects (AI for Education)
+
 OpenImpactAI develops AI-driven learning tools to support students, educators, and institutions.  
 Current projects include:
 
@@ -23,9 +28,8 @@ Current projects include:
 - **📌 [CurricAI](https://github.com/openimpactai/CurricAI)** – AI-powered adaptive curriculum generation  
 - **📌 [KnowNetAI](https://github.com/openimpactai/KnowNetAI)** – AI-driven knowledge graph for tracking student progress  
 
----
+### 🤖 2. EduSynapseAI – Multi-Agent Learning Framework
 
-### 🤖 **2. EduSynapseAI – Multi-Agent Learning Framework**
 📌 **[EduSynapseAI](https://github.com/openimpactai/EduSynapseAI)** is an advanced **multi-agent AI learning framework** designed to enhance the learning process by integrating various AI agents working collaboratively.
 
 - Adaptive AI tutors analyze student weaknesses and adjust learning materials  
@@ -34,9 +38,8 @@ Current projects include:
 
 📂 [**Learn more about EduSynapseAI →**](https://github.com/openimpactai/EduSynapseAI)
 
----
+### 🏥 3. AI-Healthcare-Projects (AI for Healthcare)
 
-### 🏥 **3. AI-Healthcare-Projects (AI for Healthcare)**
 Exploring AI-driven solutions to enhance **medical diagnostics, patient support, and healthcare accessibility**.  
 Future projects may include:
 
@@ -46,9 +49,8 @@ Future projects may include:
 
 🚧 **This category is under development! Join us in shaping AI solutions for healthcare.** 🚧
 
----
+### 🌱 4. AI-Environment-Projects (AI for Environmental Impact)
 
-### 🌱 **4. AI-Environment-Projects (AI for Environmental Impact)**
 Developing AI models to combat **climate change, pollution, and resource management**.  
 Potential projects include:
 
@@ -58,9 +60,8 @@ Potential projects include:
 
 🚧 **We welcome ideas and contributions to build impactful AI solutions for the environment.** 🚧
 
----
+### 🦾 5. AI-Accessibility-Projects (AI for Accessibility)
 
-### 🦾 **5. AI-Accessibility-Projects (AI for Accessibility)**
 Using AI to improve **digital accessibility and inclusivity**.  
 Future AI projects in this space may focus on:
 
@@ -70,36 +71,32 @@ Future AI projects in this space may focus on:
 
 🚧 **Help us create AI solutions that promote accessibility for everyone.** 🚧
 
----
+## 🎯 How to Contribute
 
-## 🎯 **How to Contribute**
-🚀 OpenImpactAI is a **community-driven initiative**, and your contributions are essential!  
+OpenImpactAI is a **community-driven initiative**, and your contributions are essential!  
 To get involved:
 
 1. Read the **[CONTRIBUTING.md](https://github.com/openimpactai/openimpactai/blob/main/CONTRIBUTING.md)** guide for contribution guidelines.  
 2. Open an **issue** to suggest a new AI for Social Good project.  
 3. Submit a **pull request (PR)** to improve existing projects.  
 
-We encourage researchers, engineers, and AI enthusiasts to collaborate with us!  
+We encourage researchers, engineers, and AI enthusiasts to collaborate with us!
 
----
+## 🔐 Security Policy
 
-## 🔐 **Security Policy**
 If you discover any security vulnerabilities, please follow the **[SECURITY.md](./SECURITY.md)** guidelines to report them responsibly.
 
----
+## 📜 License
 
-## 📜 **License**
 OpenImpactAI is licensed under the **MIT License**, promoting open collaboration.  
 📂 [**Review LICENSE**](./LICENSE)
 
----
+## 🔗 Project Support
 
-## 🔗 **Project Support**
 OpenImpactAI is:
 - Managed and sponsored by [GDLabs](https://gdlabs.io)
 - Supported by the [AI Builders Hub](https://aibuildershub.ai) community platform
 
 ---
 
-💡 **Join us in building AI-driven solutions for a better world!** 🚀
+💡 **Join us in building AI and blockchain solutions for a better world!** 🚀
