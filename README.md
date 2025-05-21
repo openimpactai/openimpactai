@@ -12,18 +12,16 @@ OpenImpactAI organizes projects into distinct categories, focusing on various so
 OpenImpactAI develops AI-driven learning tools to support students, educators, and institutions.  
 Current projects include:
 
-- **📌 MathemAI** – AI-assisted learning for dyscalculia and math difficulties  
-- **📌 LinguaSign** – AI-powered sign language translation and learning assistant  
-- **📌 LexoRead** – AI-supported reading assistant for dyslexia and reading impairments  
-- **📌 CodeMentorAI** – AI-based coding tutor and debugging mentor  
-- **📌 PolyglotAI** – AI-driven conversational AI for language learning  
-- **📌 NeuroLearn** – Cognitive skill development and problem-solving AI  
-- **📌 TeamSyncAI** – AI-powered collaborative learning and group study assistant  
-- **📌 InspiroAI** – AI-based student motivation and personalized learning reinforcement  
-- **📌 CurricAI** – AI-powered adaptive curriculum generation  
-- **📌 KnowNetAI** – AI-driven knowledge graph for tracking student progress  
-
-📂 [**Explore AI-Education-Projects →**](./AI-Education-Projects/)
+- **📌 [MathemAI](https://github.com/openimpactai/MathemAI)** – AI-assisted learning for dyscalculia and math difficulties  
+- **📌 [LinguaSign](https://github.com/openimpactai/LinguaSign)** – AI-powered sign language translation and learning assistant  
+- **📌 [LexoRead](https://github.com/openimpactai/LexoRead)** – AI-supported reading assistant for dyslexia and reading impairments  
+- **📌 [CodeMentorAI](https://github.com/openimpactai/CodeMentorAI)** – AI-based coding tutor and debugging mentor  
+- **📌 [PolyglotAI](https://github.com/openimpactai/PolyglotAI)** – AI-driven conversational AI for language learning  
+- **📌 [NeuroLearn](https://github.com/openimpactai/NeuroLearn)** – Cognitive skill development and problem-solving AI  
+- **📌 [TeamSyncAI](https://github.com/openimpactai/TeamSyncAI)** – AI-powered collaborative learning and group study assistant  
+- **📌 [InspiroAI](https://github.com/openimpactai/InspiroAI)** – AI-based student motivation and personalized learning reinforcement  
+- **📌 [CurricAI](https://github.com/openimpactai/CurricAI)** – AI-powered adaptive curriculum generation  
+- **📌 [KnowNetAI](https://github.com/openimpactai/KnowNetAI)** – AI-driven knowledge graph for tracking student progress  
 
 ---
 
