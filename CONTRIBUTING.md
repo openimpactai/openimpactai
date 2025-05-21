@@ -30,7 +30,7 @@ OpenImpactAI is designed to be a continuously evolving collection of projects wi
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [contact@openimpactai.org](mailto:contact@openimpactai.org).
+This project and everyone participating in it is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [openimpactai@aibuildershub.ai](mailto:openimpactai@aibuildershub.ai).
 
 ## Getting Started
 
@@ -196,7 +196,13 @@ If you have questions about contributing, please:
 - Open an issue with the "question" tag
 - Ask in our community discussion forum
 - Reach out to current contributors
-- Email us at [contact@openimpactai.org](mailto:contact@openimpactai.org)
+- Email us at [openimpactai@aibuildershub.ai](mailto:openimpactai@aibuildershub.ai)
+
+## Project Support
+
+OpenImpactAI is:
+- Supported by the [AI Builders Hub](https://aibuildershub.ai) community platform
+- Managed and sponsored by [GDLabs](https://gdlabs.io)
 
 ## Thank You!
 
