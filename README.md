@@ -76,7 +76,7 @@ Future AI projects in this space may focus on:
 🚀 OpenImpactAI is a **community-driven initiative**, and your contributions are essential!  
 To get involved:
 
-1. Read the **[CONTRIBUTING.md](./CONTRIBUTING.md)** guide for contribution guidelines.  
+1. Read the **[CONTRIBUTING.md](https://github.com/openimpactai/openimpactai/blob/main/CONTRIBUTING.md)** guide for contribution guidelines.  
 2. Open an **issue** to suggest a new AI for Social Good project.  
 3. Submit a **pull request (PR)** to improve existing projects.  
 
