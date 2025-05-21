@@ -22,6 +22,13 @@ Current projects include:
 - **📌 [LexoRead](https://github.com/openimpactai/LexoRead)** – AI-supported reading assistant for dyslexia and reading impairments  
 - **📌 [NeuroLearn](https://github.com/openimpactai/NeuroLearn)** – Cognitive skill development and problem-solving AI  
 - **📌 [KnowNetAI](https://github.com/openimpactai/KnowNetAI)** – AI-driven knowledge graph for tracking student progress  
+- **📌 [MathScanSolve](https://github.com/openimpactai/MathScanSolve)** – AI-powered mathematics problem scanning and solution generation
+- **📌 [ArchiveTextMiner](https://github.com/openimpactai/ArchiveTextMiner)** – AI for extracting and understanding text from historical documents
+- **📌 [VoiceAccess](https://github.com/openimpactai/VoiceAccess)** – Speech recognition for low-resource languages and underserved communities
+- **📌 [KnowledgeGrapher](https://github.com/openimpactai/KnowledgeGrapher)** – Automated concept map generation from educational content
+- **📌 [WriteCoachAI](https://github.com/openimpactai/WriteCoachAI)** – AI-driven feedback for student writing improvement
+- **📌 [ScientificQuerySolver](https://github.com/openimpactai/ScientificQuerySolver)** – Answering scientific questions with AI and evidence-based reasoning
+- **📌 [EquationExplainerAI](https://github.com/openimpactai/EquationExplainerAI)** – Step-by-step mathematical problem solving with detailed explanations
 
 ### 🤖 2. EduSynapseAI – Multi-Agent Learning Framework
 
