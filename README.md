@@ -20,12 +20,7 @@ Current projects include:
 - **📌 [MathemAI](https://github.com/openimpactai/MathemAI)** – AI-assisted learning for dyscalculia and math difficulties  
 - **📌 [LinguaSign](https://github.com/openimpactai/LinguaSign)** – AI-powered sign language translation and learning assistant  
 - **📌 [LexoRead](https://github.com/openimpactai/LexoRead)** – AI-supported reading assistant for dyslexia and reading impairments  
-- **📌 [CodeMentorAI](https://github.com/openimpactai/CodeMentorAI)** – AI-based coding tutor and debugging mentor  
-- **📌 [PolyglotAI](https://github.com/openimpactai/PolyglotAI)** – AI-driven conversational AI for language learning  
 - **📌 [NeuroLearn](https://github.com/openimpactai/NeuroLearn)** – Cognitive skill development and problem-solving AI  
-- **📌 [TeamSyncAI](https://github.com/openimpactai/TeamSyncAI)** – AI-powered collaborative learning and group study assistant  
-- **📌 [InspiroAI](https://github.com/openimpactai/InspiroAI)** – AI-based student motivation and personalized learning reinforcement  
-- **📌 [CurricAI](https://github.com/openimpactai/CurricAI)** – AI-powered adaptive curriculum generation  
 - **📌 [KnowNetAI](https://github.com/openimpactai/KnowNetAI)** – AI-driven knowledge graph for tracking student progress  
 
 ### 🤖 2. EduSynapseAI – Multi-Agent Learning Framework
