@@ -1,12 +1,12 @@
 # ANNOUNCEMENT
 
-We are pleased to announce that GDLabs.io has made the decision to transform our AI initiatives into open-source projects starting May 2025. We've begun by migrating our education-focused AI solutions to public repositories, and we're expanding our commitment to support a broader range of AI projects for social good. Through collaborations with universities and our community platform, AI Builders Hub, we aim to advance our work in an open-source format. As part of this initiative, we are migrating our private repository projects to a public repository named "OpenImpactAI."
+We are pleased to announce that [GDLabs.io](https://gdlabs.io) has made the decision to transform our AI initiatives into open-source projects starting May 2025. We've begun by migrating our education-focused AI solutions to public repositories, and we're expanding our commitment to support a broader range of AI projects for social good. Through collaborations with universities and our community platform, [AI Builders Hub](https://aibuildershub.ai), we aim to advance our work in an open-source format. As part of this initiative, we are migrating our private repository projects to a public repository named "OpenImpactAI."
 
 ---
 
 # 🌍 OpenImpactAI – AI for Social Good
 
-OpenImpactAI is an open-source initiative dedicated to leveraging artificial intelligence for social good. As part of GDLabs.io's mission to develop AI and blockchain solutions for social impact, we're committed to supporting and creating AI-driven tools across multiple domains including education, healthcare, accessibility, environmental sustainability, and more. While we've started with our education projects, we're actively expanding to support a wider spectrum of initiatives that create meaningful social impact.
+OpenImpactAI is an open-source initiative dedicated to leveraging artificial intelligence for social good. As part of [GDLabs.io](https://gdlabs.io)'s mission to develop AI and blockchain solutions for social impact, we're committed to supporting and creating AI-driven tools across multiple domains including education, healthcare, accessibility, environmental sustainability, and more. While we've started with our education projects, we're actively expanding to support a wider spectrum of initiatives that create meaningful social impact.
 
 ## 📌 Project Categories
 
@@ -94,8 +94,8 @@ OpenImpactAI is licensed under the **MIT License**, promoting open collaboration
 ## 🔗 Project Support
 
 OpenImpactAI is:
-- Managed and sponsored by [GDLabs](https://gdlabs.io)
-- Supported by the [AI Builders Hub](https://aibuildershub.ai) community platform
+- Managed and sponsored by [GDLabs.io](https://gdlabs.io)
+- Supported by the [AIBuildersHub.ai](https://aibuildershub.ai) community platform
 
 ---
 
